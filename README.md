@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jason</h1>
-<h3 align="center">A learning frontend and backend developer from Germany</h3>
+<h3 align="center">a frontend and backend developer from Germany</h3>
 
-- 🔭 I’m currently working on a **Storage Management System**
+- 🔭 I’m working on a **Storage Management System**
 
-- 🌱 I’m currently learning **typescript**
+- 🌱 I’m mainly using **typescript**
 
-- 💬 Ask me about **react, nextjs, c#, tailwindcss**
+- 💬 Ask me about **react, tanstack*, c#, tailwindcss**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
